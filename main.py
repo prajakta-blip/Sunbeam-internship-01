@@ -1,2 +1,4 @@
-import arithmetic
+
 print("Hello, World!")
+import arithmetic
+import geometry
